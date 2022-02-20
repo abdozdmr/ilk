@@ -3,5 +3,3 @@ def topla(a+b):
 
 #test
 
-def hi():
-    print ("hello")
